@@ -50,6 +50,4 @@ Impute the missing values and repeat the process until the imputation stabilizes
 
 Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests. Please ensure that any new code is well-documented and passes all tests.
 
-**License**
 
-This repository is licensed under the MIT License. See the LICENSE file for more details.
